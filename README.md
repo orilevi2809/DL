@@ -1,7 +1,4 @@
-helpfull site for labaling the holds with images: https://www.rei.com/learn/expert-advice/climbing-holds.html
-https://skyaboveus.com/climbing-hiking/Indoor-Rock-Climbing-Holds # here we saw a new definicion of the term "chip"
-
-
+# Climbing Holds Classification
 
 ## Agenda
 
@@ -60,6 +57,18 @@ To install Torch and torchvision, please visit the official [PyTorch website](ht
 
 <a name="section-4"></a>
 ## Running Instructions
+
+<a name="section-5"></a>
+## Results
+
+![WhatsApp Image 2023-06-28 at 17 44 37](https://github.com/orilevi2809/DL/assets/62295757/921eb0b0-1b45-4db1-a7f2-352412cb416d)         ![WhatsApp Image 2023-06-28 at 17 45 23](https://github.com/orilevi2809/DL/assets/62295757/77801e4d-9a56-43aa-9fbf-443e680fca53)
+
+
+
+
+
+
+
 
 
 
